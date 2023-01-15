@@ -1,6 +1,6 @@
 # Agri-Shell-Code-In-C
 <code>
-    #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 void welcome();

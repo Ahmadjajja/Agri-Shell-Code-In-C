@@ -1,6 +1,6 @@
 # Agri-Shell-Code-In-C
-<code>
-''#include <stdio.h>
+```c
+#include <stdio.h>
 #include <stdlib.h>
 
 void welcome();
@@ -130,5 +130,4 @@ void newfolder()
     snprintf(command, sizeof command, "mkdir %s", foldername);
     system(command);
 }
-    ''
-</code>
+```
